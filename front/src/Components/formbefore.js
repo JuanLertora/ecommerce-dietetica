@@ -309,7 +309,6 @@ export default function Pending() {
                     })}
                   </select>
                   <h4>Por favor seleccione fecha y horario que va a retirar:</h4>
-                  <h4>Por favor seleccione fecha y horario que va a retirar:</h4>
                   <span class="calendar">
                     <Calendar></Calendar>
                     </span>
